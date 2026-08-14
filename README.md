@@ -1,7 +1,6 @@
 # Stakeholder-Insights-Performance-Dashboard
 Interactive Tableau dashboard analysing stakeholder performance, premium trends, profitability, asset management and equity value creation.
 
-# Stakeholder Insights & Performance Dashboard
 
 ## 📊 Project Overview
 
